@@ -4,5 +4,5 @@ This repository contains my coursework, homework, and learning materials from Re
 ## Course Catalog
 
 ### Fall 2025
-- **Artificial Intelligence and Python Programming** (Instructor: Lei Ge)
+- ***Artificial Intelligence and Python Programming*** (Instructor: Lei Ge)
   - Project materials
